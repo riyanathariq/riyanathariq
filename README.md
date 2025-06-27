@@ -1,6 +1,6 @@
-## 👋 Halo semua!
+## 👋 Hi Everyone!
 
-I'm a Backend Engineer who loves building scalable and reliable systems — with clean code, clean architecture, and a strong cup of coffee ☕️.
+I'm a Backend Engineer who loves building scalable and reliable systems — with clean code, clean architecture, and a strong cup of tea ☕️.
 
 ---
 
